@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    border: thick double white;
+    padding: 50px;
+    font-family: sans-serif;
+
+  
+}
+#box1 {
+    background-color: pink;
+    height: 100px;
+    width:: 200px;
+    border-radius: 3%;
+   
+    position: relative;
+    left: 100px;
+    top: 70px;
+ margin-right: 400px;
+}
+#box2 {
+    background-color: white;
+    height: 300px;
+    width:: 400px;
+    margin-left: 50px;
+    margin-right: 250px;
+    padding: 100px;
+    border-radius: 3%;
+    
+   
+}
